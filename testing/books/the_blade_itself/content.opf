@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Gollancz</dc:publisher>
+    <meta name="calibre:title_sort" content="Blade Itself"/>
+    <meta name="calibre:rating" content="8.00"/>
+    <dc:description>&lt;div&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;British newcomer Abercrombie fills his muddled sword-and-sorcery series opener with black humor and reluctant heroes. Logen Ninefingers, a barbarian on the run from an ex-employer who's now king of the North, finds his loyalties complicated when he switches sides and becomes a valuable source of intel to the beleaguered Union. Glokta, a torture victim turned torturer, gets roped into securing the Union's position against both the invading Northmen and the incompetent Union king and council, and ruthlessly wields his skills in attempts to weed out traitors. Foppish Jezal, a preternaturally excellent swordsman, manages to win the contest to become the Union champion, thanks to a little help from Bayaz, a mage with his own agenda. The workmanlike plot, marred by repetitive writing and an excess of torture and pain, is given over to introducing the mostly unlikable characters, only to send them off on separate paths in preparation for the next volume's adventures. &lt;em&gt;(Sept.)&lt;/em&gt; &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"There is a gritty edge to his world and an awareness of the human cost of violence that is very contemporary." -- Lisa Tuttle THE TIMES "Comes close to living up to its publishers hype." -- Jon Courtenay Grimwood THE GUARDIAN "The Blade Itself is a page-turner powered by a combination of fast-paced action and juicy doses of cynicism. Perhaps more remarkable, however, is the way Abercrombie sets the scene." EDGE Magazine "The Blade Itself is therefore an extremely impressive debut, the first in a series subtitled The First Law, and in Joe Abercrombie it brings us a writer who oozes promise. This is surely a novel as sharp as its title." -- John Berlyne SF REVU "There's a fat vein of cynicism and dark humour throughout. The action scenes are fast-paced and the violence takes its toll both mentally and physically. A great start to a long journey." DREAMWATCH "You'd never guess that The Blade Itself is Joe Abercrombie's debut novel. He writes like a natural. There are great characters, sparky dialogue, an action-packed plot, and from the very first words and an opening scene that is literally a cliff-hanger, you know you are in for a cheeky, vivid, exhilarating ride." -- Barbara Davies STARBURST "An admirably hard, fast and unpretentious read from debut author Joe Abercrombie. Packs a mean punch in the bloodthirsty mayhem and mystery departments. Crammed full of torture, vengeance and bad behaviour, it's a lively tale of savagery vs. civilisation. The Blade Itself may not reinvent the wheel, but it does serve up a whole banquet of violent action and intrigue." -- Saxon Bullock SFX "The Blade Itself is in many respects another reprisal of the classic formula. It will be fascinating to see where Abercrombie take his plot and how he develops these characters." -- Roz Kaveney TIME OUT "The star of the show is doubtlessly Inquisitor Glotka for simply being one of the most wonderfully bitter and cynical characters I've come across. With a very funny and clever internal monologue going on during every conversation he has, Glotka's as miserable and nasty at the end as he was to start with and, especially in a heroic fantasy novel, it works perfectly. " SF CROWSNEST &lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Abercrombie, Joe" opf:role="aut">Joe Abercrombie</dc:creator>
+    <meta name="calibre:timestamp" content="2011-04-18T16:19:48+00:00"/>
+    <dc:title>Blade Itself</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2006-04-20T07:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.55) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9780575077867</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5d3528c6-9c86-4817-864e-fd6f1e6bde6b</dc:identifier>
+    <dc:subject>Fantasy</dc:subject>
+    <dc:subject>Fantasy fiction</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="The_Blade_Itself_split_000.html" id="id151" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_001.html" id="id150" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_002.html" id="id149" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_003.html" id="id148" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_004.html" id="id147" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_005.html" id="id146" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_006.html" id="id145" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_007.html" id="id144" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_008.html" id="id143" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_009.html" id="id142" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_010.html" id="id141" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_011.html" id="id140" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_012.html" id="id139" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_013.html" id="id138" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_014.html" id="id137" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_015.html" id="id136" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_016.html" id="id135" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_017.html" id="id134" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_018.html" id="id133" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_019.html" id="id132" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_020.html" id="id131" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_021.html" id="id130" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_022.html" id="id129" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_023.html" id="id128" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_024.html" id="id127" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_025.html" id="id126" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_026.html" id="id125" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_027.html" id="id124" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_028.html" id="id123" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_029.html" id="id122" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_030.html" id="id121" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_031.html" id="id120" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_032.html" id="id119" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_033.html" id="id118" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_034.html" id="id117" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_035.html" id="id116" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_036.html" id="id115" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_037.html" id="id114" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_038.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_039.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_040.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_041.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_042.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_043.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_044.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_045.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_046.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_047.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_048.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_049.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="The_Blade_Itself_split_050.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id151"/>
+    <itemref idref="id150"/>
+    <itemref idref="id149"/>
+    <itemref idref="id148"/>
+    <itemref idref="id147"/>
+    <itemref idref="id146"/>
+    <itemref idref="id145"/>
+    <itemref idref="id144"/>
+    <itemref idref="id143"/>
+    <itemref idref="id142"/>
+    <itemref idref="id141"/>
+    <itemref idref="id140"/>
+    <itemref idref="id139"/>
+    <itemref idref="id138"/>
+    <itemref idref="id137"/>
+    <itemref idref="id136"/>
+    <itemref idref="id135"/>
+    <itemref idref="id134"/>
+    <itemref idref="id133"/>
+    <itemref idref="id132"/>
+    <itemref idref="id131"/>
+    <itemref idref="id130"/>
+    <itemref idref="id129"/>
+    <itemref idref="id128"/>
+    <itemref idref="id127"/>
+    <itemref idref="id126"/>
+    <itemref idref="id125"/>
+    <itemref idref="id124"/>
+    <itemref idref="id123"/>
+    <itemref idref="id122"/>
+    <itemref idref="id121"/>
+    <itemref idref="id120"/>
+    <itemref idref="id119"/>
+    <itemref idref="id118"/>
+    <itemref idref="id117"/>
+    <itemref idref="id116"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="The_Blade_Itself_split_050.html#filepos1483699" type="toc" title="Table of Contents"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

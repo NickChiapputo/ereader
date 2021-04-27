@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+   <head>
+      <meta content="9780804177276" name="dtb:uid"/>
+      <meta content="2" name="dtb:depth"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Eagle and Empire</text>
+   </docTitle>
+   <navMap>
+      <navPoint id="np1" playOrder="1">
+         <navLabel>
+            <text>Cover</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_cvi_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np2" playOrder="2">
+         <navLabel>
+            <text>Title Page</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_tp_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np3" playOrder="3">
+         <navLabel>
+            <text>Copyright</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_cop_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np4" playOrder="4">
+         <navLabel>
+            <text>Contents</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_toc_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np5" playOrder="5">
+         <navLabel>
+            <text>Map</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_map_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np6" playOrder="6">
+         <navLabel>
+            <text>Part 1: Cahokia Romanus</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_p001_r1.xhtml"/>
+         <navPoint id="np7" playOrder="7">
+            <navLabel>
+               <text>Chapter 1: Year Eight, Planting Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c001_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np8" playOrder="8">
+            <navLabel>
+               <text>Chapter 2: Year Eight, Planting Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c002_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np9" playOrder="9">
+            <navLabel>
+               <text>Chapter 3: Year Eight, Heat Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c003_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np10" playOrder="10">
+            <navLabel>
+               <text>Chapter 4: Year Eight, Heat Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c004_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np11" playOrder="11">
+            <navLabel>
+               <text>Chapter 5: Year Eight, Thunder Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c005_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np12" playOrder="12">
+            <navLabel>
+               <text>Chapter 6: Year Eight, Hunting Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c006_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np13" playOrder="13">
+            <navLabel>
+               <text>Chapter 7: Year Eight, Beaver Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c007_r1.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="np14" playOrder="14">
+         <navLabel>
+            <text>Part 2: The People of the Hand</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_p002_r1.xhtml"/>
+         <navPoint id="np15" playOrder="15">
+            <navLabel>
+               <text>Chapter 8: Year Nine, Crow Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c008_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np16" playOrder="16">
+            <navLabel>
+               <text>Chapter 9: Year Nine, Crow Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c009_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np17" playOrder="17">
+            <navLabel>
+               <text>Chapter 10: Year Nine, Crow Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c010_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np18" playOrder="18">
+            <navLabel>
+               <text>Chapter 11: Year Nine, Grass Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c011_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np19" playOrder="19">
+            <navLabel>
+               <text>Chapter 12: Year Nine, Planting Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c012_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np20" playOrder="20">
+            <navLabel>
+               <text>Chapter 13: Year Nine, Thunder Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c013_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np21" playOrder="21">
+            <navLabel>
+               <text>Chapter 14: Year Nine, Thunder Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c014_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np22" playOrder="22">
+            <navLabel>
+               <text>Chapter 15: Year Nine, Hunting Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c015_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np23" playOrder="23">
+            <navLabel>
+               <text>Chapter 16: Year Nine, Hunting Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c016_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np24" playOrder="24">
+            <navLabel>
+               <text>Chapter 17: Year Nine, Falling Leaf Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c017_r1.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="np25" playOrder="25">
+         <navLabel>
+            <text>Part 3: The Great Plains</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_p003_r1.xhtml"/>
+         <navPoint id="np26" playOrder="26">
+            <navLabel>
+               <text>Chapter 18: Year Ten, Crow Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c018_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np27" playOrder="27">
+            <navLabel>
+               <text>Chapter 19: Year Ten, Planting Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c019_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np28" playOrder="28">
+            <navLabel>
+               <text>Chapter 20: Year Ten, Planting Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c020_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np29" playOrder="29">
+            <navLabel>
+               <text>Chapter 21: Year Ten, Planting Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c021_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np30" playOrder="30">
+            <navLabel>
+               <text>Chapter 22: Year Ten, Planting Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c022_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np31" playOrder="31">
+            <navLabel>
+               <text>Chapter 23: Year Ten, Planting Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c023_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np32" playOrder="32">
+            <navLabel>
+               <text>Chapter 24: Year Ten, Flower Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c024_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np33" playOrder="33">
+            <navLabel>
+               <text>Chapter 25: Year Ten, Flower Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c025_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np34" playOrder="34">
+            <navLabel>
+               <text>Chapter 26: Year Ten, Flower Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c026_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np35" playOrder="35">
+            <navLabel>
+               <text>Chapter 27: Year Ten, Flower Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c027_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np36" playOrder="36">
+            <navLabel>
+               <text>Chapter 28: Year Ten, Flower Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c028_r1.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="np37" playOrder="37">
+         <navLabel>
+            <text>Part 4: Cahokia</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_p004_r1.xhtml"/>
+         <navPoint id="np38" playOrder="38">
+            <navLabel>
+               <text>Chapter 29: Year Ten, Flower Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c029_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np39" playOrder="39">
+            <navLabel>
+               <text>Chapter 30: Year Ten, Heat Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c030_r1.xhtml"/>
+         </navPoint>
+         <navPoint id="np40" playOrder="40">
+            <navLabel>
+               <text>Chapter 31: Year Ten, Heat Moon</text>
+            </navLabel>
+            <content src="OEBPS/Smal_9780804177276_epub3_c031_r1.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="np41" playOrder="41">
+         <navLabel>
+            <text>Epilogue</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_epl_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np42" playOrder="42">
+         <navLabel>
+            <text>Dedication</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_ded_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np43" playOrder="43">
+         <navLabel>
+            <text>Acknowledgments</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_ack_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np44" playOrder="44">
+         <navLabel>
+            <text>Appendixes</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_app_r1.xhtml"/>
+      <navPoint id="np45" playOrder="45">
+         <navLabel>
+            <text>Appendix I: Dramatis Personae</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_app1_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np46" playOrder="46">
+         <navLabel>
+            <text>Appendix II: The Cahokian Year</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_app2_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np47" playOrder="47">
+         <navLabel>
+            <text>Appendix III: Cahokia and the Mississippian Culture</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_app3_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np48" playOrder="48">
+         <navLabel>
+            <text>Appendix IV: The Decline and Rise of the Roman Imperium</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_app4_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np49" playOrder="49">
+         <navLabel>
+            <text>Appendix V: Travels in Nova Hesperia: Geographic Notes</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_app5_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np50" playOrder="50">
+         <navLabel>
+            <text>Appendix VI: Glossary of Military Terms from the Roman Imperium</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_app6_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np51" playOrder="51">
+         <navLabel>
+            <text>Appendix VII: Further Reading</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_app7_r1.xhtml"/>
+      </navPoint> </navPoint>
+      <navPoint id="np52" playOrder="52">
+         <navLabel>
+            <text>Other Titles</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_adc_r1.xhtml"/>
+      </navPoint>
+      <navPoint id="np53" playOrder="53">
+         <navLabel>
+            <text>About the Author</text>
+         </navLabel>
+         <content src="OEBPS/Smal_9780804177276_epub3_ata_r1.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

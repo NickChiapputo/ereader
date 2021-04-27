@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="5d3528c6-9c86-4817-864e-fd6f1e6bde6b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Blade Itself</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="813d8c53-6d23-445a-bffc-499102ca864a" playOrder="1">
+      <navLabel>
+        <text>The End</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="fc7243b3-2f9a-43f0-b06b-dd8bd18b554c" playOrder="2">
+      <navLabel>
+        <text>PART I</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a59ad65e-6351-47a2-b236-6e78c139b28d" playOrder="3">
+      <navLabel>
+        <text>The Survivors</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="7b2db3b2-ebeb-4d94-8dd9-d29a20eb891b" playOrder="4">
+      <navLabel>
+        <text>Questions</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="67b0285e-c4f2-49da-9594-4ead382a7198" playOrder="5">
+      <navLabel>
+        <text>No Choice at All</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="152e4d5b-b43b-4ecc-b0bc-84719246443a" playOrder="6">
+      <navLabel>
+        <text>Playing With Knives</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="22e1af5a-4cd6-44d5-92f0-f6514dbd0f7f" playOrder="7">
+      <navLabel>
+        <text>Teeth and Fingers</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0dc5dacf-8319-45b2-9c2a-a4a474a2ef00" playOrder="8">
+      <navLabel>
+        <text>The Wide and Barren North</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c1efd473-71a3-4ed4-8db9-b636074aacd6" playOrder="9">
+      <navLabel>
+        <text>Fencing Practice</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0034d1f8-98dc-4ff4-9442-963bd143379a" playOrder="10">
+      <navLabel>
+        <text>The Morning Ritual</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e3e4d5f9-0d6d-4e9e-ae9f-496268535f22" playOrder="11">
+      <navLabel>
+        <text>First of the Magi</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="31cd0aba-111b-4c5c-9baa-822d3ee5a190" playOrder="12">
+      <navLabel>
+        <text>The Good Man</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="6fe716ec-903f-442a-b325-2c2785b7bf7f" playOrder="13">
+      <navLabel>
+        <text>On the List</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="6a469bf7-4793-46a8-82a4-ab5c1d8ba73f" playOrder="14">
+      <navLabel>
+        <text>An Offer and a Gift</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e89fc62e-85d6-4623-a94f-1250d3b5349d" playOrder="15">
+      <navLabel>
+        <text>The King of the Northmen</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="972189ae-9a33-493f-8627-10ae3e152d83" playOrder="16">
+      <navLabel>
+        <text>A Road Between Two Dentists</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f18b3164-d8fc-4040-abb5-bb94687204c3" playOrder="17">
+      <navLabel>
+        <text>Flatheads</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c87657ec-a586-4df2-8053-08594284e830" playOrder="18">
+      <navLabel>
+        <text>The Course of True Love</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="20413cca-8d9a-4eb3-8231-f7f72b4858c1" playOrder="19">
+      <navLabel>
+        <text>How Dogs are Trained</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ad2cf279-c6b0-467f-a8dc-90215b7e01ae" playOrder="20">
+      <navLabel>
+        <text>Tea and Vengeance</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e66b4453-ac1f-46ff-a40a-36607a7aea20" playOrder="21">
+      <navLabel>
+        <text>PART II</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="de3c4a70-3c86-4cec-a785-e43e0bbeaac9" playOrder="22">
+      <navLabel>
+        <text>What Freedom Looks Like</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c2639382-e2d9-4cd0-a3c2-7defd334dbeb" playOrder="23">
+      <navLabel>
+        <text>The King’s Justice</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="290a6223-35e2-4043-a043-557cc31fd483" playOrder="24">
+      <navLabel>
+        <text>Means of Escape</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="211c805f-93fc-407f-8258-dedeff5f24b0" playOrder="25">
+      <navLabel>
+        <text>Three Signs</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="742b64be-d329-458f-8912-ece66de63661" playOrder="26">
+      <navLabel>
+        <text>The Theatrical Outfitter’s</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c5854fcb-ed5b-4d45-b369-1d411bd237e3" playOrder="27">
+      <navLabel>
+        <text>Barbarians at the Gate</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="30eb2d67-2fe5-4ce5-a033-96b012ce9465" playOrder="28">
+      <navLabel>
+        <text>Next</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="9a2cd6d1-a053-420d-bb04-e280539b16dd" playOrder="29">
+      <navLabel>
+        <text>Better than Death</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5f050983-589c-4e4b-87a8-21f6bfdd0fd6" playOrder="30">
+      <navLabel>
+        <text>Sore Thumb</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8c1a93cf-0fa7-46ba-a93e-a12adb83e967" playOrder="31">
+      <navLabel>
+        <text>Questions</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c957e13a-9f08-45c4-b6a5-63c86b2e03d5" playOrder="32">
+      <navLabel>
+        <text>Nobility</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1ad99348-b94a-461f-81b7-9ad224386048" playOrder="33">
+      <navLabel>
+        <text>Dark Work</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_033.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c3fe3177-dcea-4870-aded-274d34fd362a" playOrder="34">
+      <navLabel>
+        <text>Words and Dust</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_034.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="33798b73-aeb1-4c46-8ed1-2e7257dd8057" playOrder="35">
+      <navLabel>
+        <text>The Remarkable Talents of Brother Longfoot</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_035.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="05130f85-456c-433b-94e0-210baede6c51" playOrder="36">
+      <navLabel>
+        <text>Her Kind Fight Everything</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_036.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="eb5e0faf-a551-4707-bc7a-5e4edc20fd53" playOrder="37">
+      <navLabel>
+        <text>She Loves Me… Not</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_037.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d4188eeb-aed0-4efc-bc82-9f332517cee7" playOrder="38">
+      <navLabel>
+        <text>The Seed</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_038.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="834ff0f5-f4d9-4f7d-ac24-867498edec66" playOrder="39">
+      <navLabel>
+        <text>Never Bet Against a Magus</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_039.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="6f172790-7c26-45a0-9df4-7272f0b45c21" playOrder="40">
+      <navLabel>
+        <text>The Ideal Audience</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_040.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5a702e6e-dc22-4c44-ad27-ec4255605a54" playOrder="41">
+      <navLabel>
+        <text>The House of the Maker</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_041.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d589cbe4-3781-4aeb-b255-dcab990c5a5d" playOrder="42">
+      <navLabel>
+        <text>Nobody’s Dog</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_042.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f13afd2b-fff0-4d24-9504-f14062b005b3" playOrder="43">
+      <navLabel>
+        <text>Each Man Worships Himself</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_043.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1d56becb-d3e0-4652-9ea6-4b2184c66237" playOrder="44">
+      <navLabel>
+        <text>Old Friends</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_044.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="9d117c76-6167-48b5-806f-7ee6b529ed00" playOrder="45">
+      <navLabel>
+        <text>Back to the Mud</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_045.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="118a9fc8-69d7-4821-a59b-192835aae092" playOrder="46">
+      <navLabel>
+        <text>Misery</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_046.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="025c105c-1581-4da0-b2c2-a7a0a0f8a4f4" playOrder="47">
+      <navLabel>
+        <text>The Bloody-Nine</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_047.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="79e3f15d-7979-4a5f-8089-52ee43541b8f" playOrder="48">
+      <navLabel>
+        <text>The Tools we Have</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_048.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="3dd12df1-02c1-49ef-b06e-134c797b5ace" playOrder="49">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="The_Blade_Itself_split_049.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
